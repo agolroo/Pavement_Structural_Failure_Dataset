@@ -1,0 +1,7 @@
+train: '/content/yolov5/4880splitted/train'
+val: '/content/yolov5/4880splitted/val'
+test: '/content/yolov5/4880splitted/test'
+
+# Classes
+nc: 4
+names: ['corrugation-high', 'corrugation-low', 'rutting-high', 'rutting-low']
